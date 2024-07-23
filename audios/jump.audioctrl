@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "jump",
+  "identifier": "playback_controller_model:16010-6e050596-9f08-4fc0-925d-59bba85d1bb6",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:13772-6e050596-9f08-4fc0-925d-59bba85d1bb6"
+}
